@@ -199,7 +199,7 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(24, 29, 56, .6), rgba(24, 29, 56, .6)), url(../img/mate7.jpg);
+    background: linear-gradient(rgba(24, 29, 56, .6), rgba(24, 29, 56, .6)), url(../img/img1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -447,7 +447,7 @@
     float: right;
 }
 .hola50{
-    background: linear-gradient(rgba(10, 15, 30, .1), rgba(10, 15, 30, .1)), url(../img/mate1.jpg);
+    background: linear-gradient(rgba(10, 15, 30, .1), rgba(10, 15, 30, .1)), url(../img/img2.jpg);
     height: 500px;
     width: 100%;
     background-repeat: no-repeat;
