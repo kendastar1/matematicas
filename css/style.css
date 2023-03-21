@@ -453,4 +453,11 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.page-header1 {
+    background: linear-gradient(rgba(24, 29, 56, .6), rgba(24, 29, 56, .6)), url(../img/hd.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
 
