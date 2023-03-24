@@ -459,7 +459,7 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 450px;
+    height: 425px;
 }
 .page-header2 {
     background: linear-gradient(rgba(24, 29, 56, .6), rgba(24, 29, 56, .6)), url(../img/arte.jpg);
@@ -468,3 +468,13 @@
     background-size: cover;
     height: 450px;
 }
+.page-header3 {
+    background: linear-gradient(rgba(24, 29, 56, .6), rgba(24, 29, 56, .6)), url(../img/ul.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 425px;
+}
+
+
+
