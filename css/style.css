@@ -203,6 +203,7 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 450px;
 }
 
 .page-header-inner {
@@ -437,9 +438,9 @@
     color: #ff9800 !important;
 }
 .hola{
-    text-align: center;
+    background-position: left;
     padding-top: 20px;
-    padding-left: 200px;
+    padding-left: 50px;
     padding-bottom: 20px;
 }
 .hola1{
